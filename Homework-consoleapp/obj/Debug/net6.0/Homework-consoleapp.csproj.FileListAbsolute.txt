@@ -1,0 +1,15 @@
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\bin\Debug\net6.0\Homework-consoleapp.exe
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\bin\Debug\net6.0\Homework-consoleapp.deps.json
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\bin\Debug\net6.0\Homework-consoleapp.runtimeconfig.json
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\bin\Debug\net6.0\Homework-consoleapp.dll
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\bin\Debug\net6.0\Homework-consoleapp.pdb
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\obj\Debug\net6.0\Homework-consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\obj\Debug\net6.0\Homework-consoleapp.AssemblyInfoInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\obj\Debug\net6.0\Homework-consoleapp.AssemblyInfo.cs
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\obj\Debug\net6.0\Homework-consoleapp.csproj.CoreCompileInputs.cache
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\obj\Debug\net6.0\Homework-consoleapp.sourcelink.json
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\obj\Debug\net6.0\Homework-consoleapp.dll
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\obj\Debug\net6.0\refint\Homework-consoleapp.dll
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\obj\Debug\net6.0\Homework-consoleapp.pdb
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\obj\Debug\net6.0\Homework-consoleapp.genruntimeconfig.cache
+C:\Users\Farid\Desktop\homewotk\c#\Homework-consoleapp\Homework-consoleapp\obj\Debug\net6.0\ref\Homework-consoleapp.dll
